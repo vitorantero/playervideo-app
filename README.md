@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="../Assets/Images/readme.png" width="100%">
+  <img alt="player" src="./public/Assets/Images/readme.png" width="100%">
 </p>
 
 # Getting Started with Create React App
